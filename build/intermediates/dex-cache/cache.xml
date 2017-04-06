@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Korisnik\.android\build-cache\f7c606f2768d99cefbac086ee302919bf3489dae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4ad8321cff5fa475cb39daf387b3cb581aab17f">
+        <dex dex="C:\Users\Korisnik\PrvaDomacaZadaca\app\build\intermediates\pre-dexed\debug\classes_68761328be613e183a60b1c2b8cd0b628f4daa11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Korisnik\.android\build-cache\59c65a5bac7859e004b81c40999fe086ad0de58c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Korisnik\PrvaDomacaZadaca\app\build\intermediates\pre-dexed\debug\classes_bd4efcd0a72e523751b9935f66104e20b714ea44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Korisnik\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta1\constraint-layout-solver-1.0.0-beta1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ac4965ed6786f8d63f1960a996a6be667064cd28">
+        <dex dex="C:\Users\Korisnik\PrvaDomacaZadaca\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-beta1_eb67976c03a1c4ca89fbcb63f9904e82e6770dff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Korisnik\.android\build-cache\2092c2837ce5c6c20d306244b428a2c7ef70d2ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Korisnik\PrvaDomacaZadaca\app\build\intermediates\pre-dexed\debug\classes_4a2398d350818cc04027ad74d00675ad36e58c49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Korisnik\.android\build-cache\817193a97f77fdbb36fb57bdeb7b75f56516e8c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Korisnik\PrvaDomacaZadaca\app\build\intermediates\pre-dexed\debug\classes_f8f3591f473b93f3732cce3b4f87ee22511fde52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Korisnik\.android\build-cache\59c65a5bac7859e004b81c40999fe086ad0de58c\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Korisnik\PrvaDomacaZadaca\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_42a3bbec423c16ae8cd4d3427cdcc2161ef711f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Korisnik\.android\build-cache\5a8be54fc15c6d57d84d14b699340509acf89854\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Korisnik\PrvaDomacaZadaca\app\build\intermediates\pre-dexed\debug\classes_f8553158ff4a2eca9f1f8e89433f4d58ec0d0bc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Korisnik\.android\build-cache\5a8be54fc15c6d57d84d14b699340509acf89854\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Korisnik\PrvaDomacaZadaca\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_30592b3977dc62d97186a4ad7848de90129bbe27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Korisnik\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Korisnik\PrvaDomacaZadaca\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_5359abb70a1dc74348e8a936ac6d11c80cb21b65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Korisnik\.android\build-cache\be0ff7789e99700745b93e41268d925dd7cd7692\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Korisnik\PrvaDomacaZadaca\app\build\intermediates\pre-dexed\debug\classes_7f697c7da69897c998430614c595282aa8d34b0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Korisnik\.android\build-cache\817193a97f77fdbb36fb57bdeb7b75f56516e8c0\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Korisnik\PrvaDomacaZadaca\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3f67f13ce25efd9556aaa6ea5d85e380d010503d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Korisnik\.android\build-cache\059d84a6c22409fb0ab69ca7ed4a9db99701d19d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Korisnik\PrvaDomacaZadaca\app\build\intermediates\pre-dexed\debug\classes_a63f238d0350dfc3866a4aa263c5c5042431d171.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Korisnik\.android\build-cache\b319eeb2ac59016c9c9671fdd0c5095b275d2648\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Korisnik\PrvaDomacaZadaca\app\build\intermediates\pre-dexed\debug\classes_36ec98bca693a09f3b2c075a9782a7bf5d6634cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Korisnik\.gradle\caches\modules-2\files-2.1\org.achartengine\achartengine\1.2.0\1bd51fadf0ff57472b9c0bb3955a28fc0fbc97b8\achartengine-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1bd51fadf0ff57472b9c0bb3955a28fc0fbc97b8">
+        <dex dex="C:\Users\Korisnik\PrvaDomacaZadaca\app\build\intermediates\pre-dexed\debug\achartengine-1.2.0_fc3153b03f979592d4e5bed7880e9d2a974ead0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Korisnik\.android\build-cache\64ad562d525b1c9f51e929154b7a5522206c0d8c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Korisnik\PrvaDomacaZadaca\app\build\intermediates\pre-dexed\debug\classes_8ff3d9062849adc296ac5a7c803aec5edf63f2b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Korisnik\.android\build-cache\2092c2837ce5c6c20d306244b428a2c7ef70d2ce\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Korisnik\PrvaDomacaZadaca\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b87693e35a99df77fe602134590d26bcc1061aa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Korisnik\.android\build-cache\86b130a2b5fab22af67361351a7ec95cd20f3906\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Korisnik\PrvaDomacaZadaca\app\build\intermediates\pre-dexed\debug\classes_ee51567dd12d200c2264f1f28af58ed5bbd0241a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Korisnik\.android\build-cache\059d84a6c22409fb0ab69ca7ed4a9db99701d19d\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Korisnik\PrvaDomacaZadaca\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_835ed59b5325e3d3a4ebb2d8ec22a2da80b8a238.jar" />
+    </item>
+
+</items>
